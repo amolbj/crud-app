@@ -1,0 +1,26 @@
+{
+    "bookings":[
+     { 
+       "id":1,
+       "name":"Sam",
+       "source":"Pune",
+       "destination":"Banglore",
+       "date":"01/01/2024"
+     },
+     { 
+       "id":2,
+       "name":"John",
+       "source":"Mumbai",
+       "destination":"Chennai",
+       "date":"31/11/2023"
+     },
+     { 
+       "id":3,
+       "name":"David",
+       "source":"Chennai",
+       "destination":"Pune",
+       "date":"12/12/2023"
+     }
+    ]
+  
+  }
